@@ -1,4 +1,4 @@
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+--Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 SELECT *
 FROM PortfolioProject..CovidDeaths
@@ -131,6 +131,7 @@ WHERE d.continent IS NOT NULL
 
 SELECT  *
 FROM PercentPopulationVaccinated
+
 
 
 
